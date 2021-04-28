@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pulkit Asri</h1>
 <h3 align="center"></h3>
 
-- 🌱 I’ve explored **app development** in java/kotlin
+- 🌱 I'm exploring **app development** in java/kotlin
 - 🌱 I’m currently learning **web development**
 
 <h3 align="left">Connect with me:</h3>
