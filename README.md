@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pulkit Asri</h1>
 <h3 align="center"></h3>
 
-- 🌱 I'm exploring **app development** in java/kotlin
-- 🌱 I’m currently learning **web development**
+- 🌱 I'm currently working on **app development** in java/kotlin.
+- 🌱 I’m currently learning **web development**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,6 +13,12 @@
 <a href="https://www.codechef.com/users/pulkit_asri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pulkit_asri" height="30" width="40" /></a>
 
 </p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pulkitasri&show_icons=true&locale=en&layout=compact" alt="pulkitasri" /> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pulkitasri&show_icons=true&locale=en" alt="pulkitasri" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pulkitasri&" alt="pulkitasri" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
