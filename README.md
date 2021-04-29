@@ -13,12 +13,11 @@
 <a href="https://www.codechef.com/users/pulkit_asri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pulkit_asri" height="30" width="40" /></a>
 
 </p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pulkitasri&show_icons=true&locale=en&layout=compact" alt="pulkitasri" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pulkitasri&show_icons=true&theme=dark&locale=en&layout=compact" alt="pulkitasri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pulkitasri&show_icons=true&locale=en" alt="pulkitasri" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pulkitasri&show_icons=true&theme=dark&locale=en" alt="pulkitasri" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pulkitasri&" alt="pulkitasri" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pulkitasri&theme=dark" alt="pulkitasri" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
