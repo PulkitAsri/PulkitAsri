@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
 
 - 🌱 I'm currently working on **app development** in java/kotlin.
-- 🌱 I’m currently learning **web development**.
+- 🌱 I’m currently exploring **web development**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
