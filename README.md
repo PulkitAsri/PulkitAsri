@@ -2,7 +2,9 @@
 <h3 align="center"></h3>
 
 - 🌱 I'm currently working on **app development** in java/kotlin.
-- 🌱 I’m currently exploring **web development**.
+- 🔭 I’m currently exploring **web development**.
+- 📩 How to reach me **pulkit.asri@gmail.com**
+- 📫 Connect with me **https://www.linkedin.com/in/pulkit-asri-50ab06193/**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
