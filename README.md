@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pulkit Asri</h1>
+<h1 align="center">Hi👋, I'm Pulkit</h1>
 <h3 align="center"></h3>
 
 <!-- - 🌱 I'm currently working on **app development** in java/kotlin.
