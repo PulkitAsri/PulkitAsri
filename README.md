@@ -7,7 +7,7 @@
 
 - 📩 -> How to reach me *pulkit.asri@gmail.com*
 - 🔗 -> Connect with me *[linkedin.com/in/pulkit-asri](https://www.linkedin.com/in/pulkit-asri-50ab06193/)*
-- 📜 -> *[Resume Link](https://drive.google.com/file/d/1YMKCFGCUDVwKQbyNk9G-N9esJn28rHbz/view?usp=sharing)*
+- 📜 -> *[Resume Link](https://drive.google.com/file/d/1cW-PU6eqCQ2pyamPJ5dGeWhH6r53YUAB/view?usp=sharing)*
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
